@@ -1,0 +1,10 @@
+{
+  "name": "gl-texture2d-copy",
+  "version": "0.1.0",
+  "description": "Copy a texture by rendering it to another texture.",
+  "author": "Liam Doherty",
+  "dependencies": {
+    "gl-rtt": "~0.1.0"
+  },
+  "main": "copy_texture"
+}
